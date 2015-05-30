@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 30-Oct-13 5:31:28 PM
+
+BeginCmp
+TimeStamp = /5270F07C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E1B0;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E1C7;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = Ideonics_RMC_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E1A3;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E254;
+Reference = R1;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E261;
+Reference = R2;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E267;
+Reference = R3;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E28F;
+Reference = R4;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E29A;
+Reference = R5;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E2A5;
+Reference = R6;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E2B0;
+Reference = R7;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E2B6;
+Reference = R8;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270F093;
+Reference = R9;
+ValeurCmp = 820;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5270E18A;
+Reference = U1;
+ValeurCmp = ULN2803;
+IdModule  = DIP-18__300;
+EndCmp
+
+EndListe

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 30-Oct-13 3:59:57 PM
+#
+$CMP 74LS374
+D 8 bits Register, 3 state Out
+K TTL DFF DFF8 REG 3State
+$ENDCMP
+#
+$CMP ULN2803
+D DARLINGTON TRANSISTOR ARRAY
+K TTL DFF DFF8 REG 3State
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,36 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 5/27/2015 11:05:26 AM
+#Cmp ( order = Reference )
+| D1         LED         
+| P1         CONN_8      
+| P2         CONN_2      
+| P3         CONN_8      
+| R1         820         
+| R2         820         
+| R3         820         
+| R4         820         
+| R5         820         
+| R6         820         
+| R7         820         
+| R8         820         
+| R9         820         
+| U1         ULN2803     
+#End Cmp
+
+#Cmp ( order = Value )
+| LED          D1        
+| CONN_8       P1        
+| CONN_2       P2        
+| CONN_8       P3        
+| 820          R1        
+| 820          R2        
+| 820          R3        
+| 820          R4        
+| 820          R5        
+| 820          R6        
+| 820          R7        
+| 820          R8        
+| 820          R9        
+| ULN2803      U1        
+#End Cmp
+
+#End List
